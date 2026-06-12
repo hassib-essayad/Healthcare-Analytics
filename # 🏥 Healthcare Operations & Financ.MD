@@ -63,8 +63,8 @@ A comprehensive, end-to-end Healthcare Analytics project built with **Power Quer
 ---
 
 ## 👤 Author
-**Your Name** Data Analyst / Business Intelligence Specialist  
+**AbdelHassib ESSAYAD** Data Analyst / Business Intelligence Specialist  
 Power BI · Power Query · DAX · Healthcare Business Intelligence  
 
-🔗 [GitHub Portfolio](https://github.com/your-username)  
-📧 your.email@example.com
+🔗 [GitHub Portfolio](https://github.com/hassib-essayad)  
+📧 essayad@gmail.com
